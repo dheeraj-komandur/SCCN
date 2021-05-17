@@ -1,0 +1,10 @@
+[{"name":"dheeraj",
+  "marks":"12"
+ },
+ {"name":"garud",
+  "marks":"13"
+ },
+ {"name":"shebin",
+  "marks":"14"
+ }
+]
